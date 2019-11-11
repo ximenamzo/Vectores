@@ -27,7 +27,7 @@ int main()
 		vectorsuma[i] = vector1[i] + vector2[i];
 	}
 	//Mostramos el resultado
-	cout << "El vector suma es:";
+	cout << "El vector suma es: ";
 
 	for (i = 0; i < 3; i++)
 	{
